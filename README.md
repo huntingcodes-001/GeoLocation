@@ -1,4 +1,4 @@
-Geolocation Tracker is a versatile application designed for web-based _____ to capture and log the geographical locations of visitors in real-time.
+Geolocation Tracker is a versatile application designed for web-based analytics to capture and log the geographical locations of visitors in real-time.
 
 Key Features:-
 
