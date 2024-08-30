@@ -1,32 +1,3 @@
-// const express = require('express');
-// const bodyParser = require('body-parser');
-// const path = require('path');
-
-// const app = express();
-// const PORT = 3000;
-
-// app.use(bodyParser.json());
-
-// // Serve static files from the 'public' directory
-// app.use(express.static(path.join(__dirname, 'public')));
-
-// // Endpoint to receive geolocation data
-// app.post('/save-geolocation', (req, res) => {
-//     const geolocation = req.body;
-//     console.log('Received geolocation data:', geolocation);
-
-//     // Save geolocation data to a database or file (this is just a placeholder)
-//     // In a real application, you would save this data to a database
-//     // For demonstration, we'll just log it to the console
-
-//     res.json({ message: 'Geolocation data received successfully' });
-// });
-
-// app.listen(PORT, () => {
-//     console.log(`Server is running on http://localhost:${PORT}`);
-// });
-
-
 const express = require('express');
 const bodyParser = require('body-parser');
 const path = require('path');
